@@ -1,0 +1,2 @@
+# doc-xrdsecgsi
+XrdSecProtocolgsi Documentation
